@@ -1,0 +1,4 @@
+usrename  =satya
+password =1234;
+
+submit to the database;
